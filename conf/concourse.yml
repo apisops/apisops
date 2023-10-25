@@ -1,0 +1,9 @@
+# Concourse configuration file template
+webSvr:
+  host: localhost
+  port: 8080
+mongo:
+  host: localhost
+  port: 27017
+  username: username
+  password: password
