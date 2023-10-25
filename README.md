@@ -1,6 +1,6 @@
-# ApisOps
+![Logo](docs/pictures/logo.png)
 
-ApisOps is an effective operations automation system tailored for SRE use, adept at handling massive concurrent tasks.
+---
 
 ## Introduction
 
