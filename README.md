@@ -1,7 +1,5 @@
 ![Logo](docs/pictures/logo.png)
 
----
-
 ## Introduction
 
 ApisOps is an effective, open-source, high-performance operations automation system tailored for SRE use, adept at handling massive concurrent tasks. Lightweight and extensible, ApisOps offers a practical tool for streamlined integration, user-friendly operation, and extensive adaptability.
