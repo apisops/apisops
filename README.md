@@ -18,16 +18,21 @@ Built by **React.js**, **TypeScript**, **Ant Design Pro** and **ProComponents**.
 
 ### Back-end
 
-Written in Go, the back-end services are composed of two separate services: **Concourse** and **Interchange**.
+Written in **Go**, the back-end services are composed of two separate services: **Concourse** and **Interchange**.
 
-- **Concourse**: The entry point of ApisOps, provided RESTful APIs to manage workflows, scripts, tasks, and cron jobs.
-- **Interchange**: A high-performance execution service for submitting tasks such as script execution, requesting third-party systems, and file distribution. It also retrieves task logs, converts task status, and persists execution records.
+**Concourse**: The entry point of ApisOps, a simple web server based on the MVC model, providing RESTful APIs to manage workflows, scripts, tasks, and cron jobs.
 
-### Client
+![Architecture of Concourse](docs/pictures/architecture_of_Concourse.png)
+
+**Interchange**: A high-performance execution service for submitting tasks such as script execution, requesting third-party systems, and file distribution. It also retrieves task logs, converts task status, and persists execution records.
+
+![Architecture of Interchange](docs/pictures/architecture_of_Interchange.png)
+
+### Client on remote servers
 
 **Station** is a lightweight client that runs on target servers for dispatching files and executing scripts.
 
-## Design considerations
+### Design considerations
 
 - High concurrency
 - Efficient
