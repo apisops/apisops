@@ -18,4 +18,4 @@ ApisOps is composed of these components:
 
 ## License
 
-[GNU General Public License v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
