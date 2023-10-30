@@ -2,6 +2,18 @@
 
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
+## Notification: Slowdown in the development process
+
+Dear ApisOps Community,
+
+We apologise for the current slowdown in the development of the ApisOps project. The lead developer (me, Ada), who is a student pursuing a Master's degree, is navigating a particularly demanding schedule at the moment, impacting the project's progress. 
+
+We appreciate your understanding, patience, and continued support as we work through this phase. For questions or additional contributions, please don’t hesitate to reach out.
+
+Best regards,
+
+Ada
+
 ## Introduction
 
 ApisOps is an effective, open-source, high-performance operations automation system tailored for SRE use, adept at handling massive concurrent tasks. Lightweight and extensible, ApisOps offers a practical tool for streamlined integration, user-friendly operation, and extensive adaptability.
