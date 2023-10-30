@@ -46,7 +46,8 @@ Written in **Go**, the back-end services are composed of two separate services: 
 
 ### Design considerations
 
-- High concurrency
+- High-performance
+- Lightweight
 - Efficient
 - Easy to extend
 - Keep it simple
